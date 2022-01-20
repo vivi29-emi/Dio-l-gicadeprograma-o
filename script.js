@@ -1,5 +1,40 @@
-// definindo relacionamento entre as vériaveis
-let cliente= {
+/* //estrutura de repetição
+let tabuada=9
+let i=1
+let limite = 10
+
+
+while (i <= limite){
+    console.log(`contagen atual `, tabuada * i);
+i++; // mesmo que i=i+1
+} */
+
+/* // loop for
+ let tabuada=7
+ 
+
+ for (let contador=1;contador<=10;contador++) {
+    console.log(tabuada,'x', contador,'=',tabuada * contador);
+
+ }
+ */
+/* //definindo loop while
+
+     let tabuada= 7
+     let contador= 1
+      
+     
+     while(contador <= 10){
+        console.log(tabuada,'x', contador,'=',tabuada * contador ++);
+     }
+ */
+     
+
+
+
+
+// definindo relacionamento entre as variaveis
+/* let cliente= {
     nome: " Viviane",
     cartao: true
 }
@@ -10,7 +45,7 @@ if (cliente.cartao== true) {
 
 else{
     console.log(" O site não seguirá com a compra")
-}
+} */
 
 /* 
 let a=1
