@@ -1,3 +1,52 @@
+  
+
+
+/* // Método length
+
+let clientes= ["João","Maria","Danilo","Fêrnanda","Bruna","Alex"]
+console.log(clientes);
+for (let i=0; i<clientes.length; i++){
+    console.log(clientes[i]); // comando deixa o conteúdo em forma de lista, é a base de toda a lógica bc de dados como por exemplo BigDate.
+}
+ */
+
+
+/*  // Array
+
+ let clientes= ["João","Maria","Danilo","Fêrnanda","Bruna","Alex"]
+ console.log(clientes); */
+
+// Método Array push
+
+/* let clientes=["João","Maria","Danilo","Fêrnanda","Bruna","Alex"];
+   
+      clientes.push("Samuel");
+ 
+ console.log(clientes);  */
+
+
+/* // switch
+let mes= 22
+
+switch (mes){
+    case 1,2,3:
+        console.log("Primerio trimestre");
+        break;
+   case 4,5,6:
+        console.log("Segundo trimestre");
+        break;
+    case 7,8,9:  
+    console.log("Terceiro trimestre");
+    break;
+    case 10,11,12:
+    console.log("Quarto trimestre");
+    break;
+    default:
+        console.log("Comando inválido")
+
+}
+ */
+
 /* //estrutura de repetição
 let tabuada=9
 let i=1
